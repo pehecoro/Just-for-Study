@@ -24,3 +24,5 @@ for e in T:
 	average += e
 average /= len(T)
 print("Ex6.13 \n-------\nLowest: %d\nBiggest: %d\nAverage: %d\n-------" %(minimum,maximum,average))
+"""Exercise 6.14
+What happens when the list is already organized? Track the program of listing 6.44, but with a new list L=[1,2,3,4,5]"""
